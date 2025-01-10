@@ -38,27 +38,11 @@ This project is a real-time web chat application built with modern web technolog
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trisha2301&theme=blue-green&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true">
 </picture>
 
-## GitHub Streak Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Trisha2301&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Trisha2301&theme=flag-india&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-  <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Trisha2301&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-</picture>
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Trisha2301&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&no-bg=true&rank=-?" alt="Trisha2301's Trophy"/>
 </p>
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trisha2301/Trisha2301/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trisha2301/Trisha2301/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Trisha2301/Trisha2301/output/github-snake.svg" />
-</picture>
 
 ## Github Top Repos
 
